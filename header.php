@@ -38,7 +38,7 @@
                                                             <li class="mega-menu-item">
                                                                 <div class="lateralDropDownContainer">
                                                                     <div class="dropDownItem">
-                                                                        <button onclick="window.location.assign('index.php');" class="accordionMenu">
+                                                                        <button onclick="window.location.assign('about-us.php');" class="accordionMenu">
                                                                             About
                                                                         </button>
                                                                     </div>
@@ -47,7 +47,7 @@
                                                             <li class="mega-menu-item">
                                                                 <div class="lateralDropDownContainer">
                                                                     <div class="dropDownItem">
-                                                                        <button onclick="window.location.assign('index.php');" class="accordionMenu">
+                                                                        <button onclick="window.location.assign('products.php');" class="accordionMenu">
                                                                             Products
                                                                         </button>
                                                                     </div>
@@ -56,7 +56,7 @@
                                                             <li class="mega-menu-item">
                                                                 <div class="lateralDropDownContainer">
                                                                     <div class="dropDownItem">
-                                                                        <button onclick="window.location.assign('index.php');" class="accordionMenu">
+                                                                        <button onclick="window.location.assign('contact-us.php');" class="accordionMenu">
                                                                             Contact Us
                                                                         </button>
                                                                     </div>
