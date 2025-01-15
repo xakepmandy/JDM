@@ -293,7 +293,7 @@
             <!--hover-section end-->          
 
             <!--padding_bottom_zero-section-->
-            <section class="prt-row team-section bg-base-grey clearfix">
+            <section class="prt-row core-values-section bg-base-grey clearfix">
                 <div class="container">
                     <!-- row -->
                     <div class="row">
@@ -301,86 +301,69 @@
                             <!-- section title -->
                             <div class="section-title">
                                 <div class="title-header">
-                                    <h3>Meet Our Team</h3>
-                                    <h2 class="title">Depths give miners</h2>
+                                    <h3>Our Core Values</h3>
+                                    <h2 class="title">What Drives Us Forward</h2>
                                 </div>
                             </div><!-- section title end -->
-                        </div> 
+                        </div>
                         <div class="col-xl-8 col-lg-12 col-md-12 col-sm-12">
                             <div class="row slick_slider" data-slick='{"slidesToShow": 2, "slidesToScroll": 1, "arrows":false, "autoplay":true, "dots":false, "infinite":true, "responsive":[{"breakpoint":1200,"settings": {"slidesToShow": 2}}, {"breakpoint":927,"settings":{"slidesToShow": 2}},{"breakpoint":768,"settings":{"slidesToShow": 2}},{"breakpoint":595,"settings":{"slidesToShow": 1}}]}'>
                                 <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12">
-                                    <!-- featured-imagebox-team -->
+                                    <!-- featured-imagebox-core-value -->
                                     <div class="featured-imagebox featured-imagebox-team style1">
                                         <div class="featured-thumbnail border-rad_10">
-                                            <img width="130" height="130" class="img-fluid" src="images/team-member/team-img01.jpg" alt="image"> 
+                                            <img width="130" height="130" class="img-fluid" src="images/core-values/integrity.jpg" alt="Integrity">
                                         </div>
                                         <div class="featured-content">
-                                            <div class="team-position">Chief Marketing</div>
-                                            <div class="featured-title position-relative">
-                                                <h3><a href="team-details.php">Jessica brown</a></h3>
-                                            </div>
-                                        </div>
-                                        <div class="team-contect">
-                                            <div class="copy-text">
-                                                <p>call us on <span id="p1" class="text-base-skin">899 000 999 88</span></p>
-                                                <button class="copytext" onclick="copyToClipboard('#p1')"><i class="flaticon flaticon-copy"></i></button>
-                                            </div>
-                                            <div class="copy-text copy-text-email">
-                                                <p id="p2" class="featured-imagebox-team-link-02">jessica@mining.com</p>
-                                                <button class="copytext" onclick="copyToClipboard('#p2')"><i class="flaticon flaticon-copy"></i></button>
+                                            <div class="value-title">Integrity</div>
+                                            <div class="featured-description">
+                                                <p>Upholding the highest ethical standards in every action we take.</p>
                                             </div>
                                         </div>
                                     </div>
-                                </div> 
-                                <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12">
-                                    <!-- featured-imagebox-team -->
-                                    <div class="featured-imagebox featured-imagebox-team style1">
-                                        <div class="featured-thumbnail border-rad_10">
-                                            <img width="130" height="130" class="img-fluid" src="images/team-member/team-img02.jpg" alt="image"> 
-                                        </div>
-                                        <div class="featured-content">
-                                            <div class="team-position">Managing Director</div>
-                                            <div class="featured-title position-relative">
-                                                <h3><a href="team-details.php">David coper</a></h3>
-                                            </div>
-                                        </div>
-                                        <div class="team-contect">
-                                            <div class="copy-text call02">
-                                                <p>call us on <span id="p3" class="text-base-skin">899 000 999 88</span></p>
-                                                <button class="copytext" onclick="copyToClipboard('#p3')"><i class="flaticon flaticon-copy"></i></button>
-                                            </div>
-                                            <div class="copy-text copy-text-email email02">
-                                                <p id="p4" class="featured-imagebox-team-link-02">david@mining.com</p>
-                                                <button class="copytext" onclick="copyToClipboard('#p4')"><i class="flaticon flaticon-copy"></i></button>
-                                            </div>
-                                        </div>
-                                    </div><!-- featured-imagebox-team end-->
                                 </div>
                                 <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12">
-                                    <!-- featured-imagebox-team -->
+                                    <!-- featured-imagebox-core-value -->
                                     <div class="featured-imagebox featured-imagebox-team style1">
                                         <div class="featured-thumbnail border-rad_10">
-                                            <img width="130" height="130" class="img-fluid" src="images/team-member/team-img03.jpg" alt="image"> 
+                                            <img width="130" height="130" class="img-fluid" src="images/core-values/sustainability.jpg" alt="Sustainability">
                                         </div>
                                         <div class="featured-content">
-                                            <div class="team-position">Senior Manager</div>
-                                            <div class="featured-title position-relative">
-                                                <h3><a href="team-details.php">Jack martin</a></h3>
+                                            <div class="value-title">Sustainability</div>
+                                            <div class="featured-description">
+                                                <p>Fostering environmentally responsible practices for a greener future.</p>
                                             </div>
                                         </div>
-                                        <div class="team-contect">
-                                            <div class="copy-text call03">
-                                                <p>call us on <span id="p5" class="text-base-skin">899 000 999 88</span></p>
-                                                <button class="copytext" onclick="copyToClipboard('#p5')"><i class="flaticon flaticon-copy"></i></button>
-                                            </div>
-                                            <div class="copy-text copy-text-email email03">
-                                                <p id="p6" class="featured-imagebox-team-link-02">jack@mining.com</p>
-                                                <button class="copytext" onclick="copyToClipboard('#p6')"><i class="flaticon flaticon-copy"></i></button>
-                                            </div>
-                                        </div>
-                                    </div><!-- featured-imagebox-team end-->
+                                    </div>
                                 </div>
-
+                                <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12">
+                                    <!-- featured-imagebox-core-value -->
+                                    <div class="featured-imagebox featured-imagebox-team style1">
+                                        <div class="featured-thumbnail border-rad_10">
+                                            <img width="130" height="130" class="img-fluid" src="images/core-values/innovation.jpg" alt="Innovation">
+                                        </div>
+                                        <div class="featured-content">
+                                            <div class="value-title">Innovation</div>
+                                            <div class="featured-description">
+                                                <p>Embracing new ideas and technologies to meet evolving demands.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12">
+                                    <!-- featured-imagebox-core-value -->
+                                    <div class="featured-imagebox featured-imagebox-team style1">
+                                        <div class="featured-thumbnail border-rad_10">
+                                            <img width="130" height="130" class="img-fluid" src="images/core-values/excellence.jpg" alt="Excellence">
+                                        </div>
+                                        <div class="featured-content">
+                                            <div class="value-title">Excellence</div>
+                                            <div class="featured-description">
+                                                <p>Delivering unmatched quality in products and services globally.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -395,8 +378,8 @@
                     <div class="row align-items-center">
                         <div class="col-xl-5 col-lg-6 col-md-12">
                             <div class="blog-text blog-text1 d-flex">
-                                <span class="blog-txt blog-txt1">150+</span>
-                                <p>Best News <br>Events</p>
+                                <span class="blog-txt blog-txt1">Explore</span>
+                                <p>What We Do And Offer</p>
                             </div>
                         </div>
                         <div class="col-xl-7 col-lg-6 col-md-12">
@@ -404,8 +387,8 @@
                                 <!-- section title -->
                                 <div class="section-title">
                                     <div class="title-header">
-                                        <h3>BLOG & ARTICLES</h3>
-                                        <h2 class="title mb-0">Our recent posts</h2>
+                                        <h3>ABOUT US</h3>
+                                        <h2 class="title mb-0">Who We Are</h2>
                                     </div>
                                 </div><!-- section title end -->
                             </div>
@@ -415,120 +398,17 @@
                         <div class="col-xl-12 col-lg-12 col-md-12">
                             <div class="featured-imagebox featured-imagebox-post style3">
                                 <div class="row align-items-center">
-                                    <div class="col-lg-6 col-md-6 col-sm-12">
-                                        <div class="featured-content d-flex align-items-center">
-                                            <div class="post-meta">
-                                                <span class="prt-meta-line date">18<sup class="sup">Jun</sup></span>
-                                            </div>
-                                            <div class="featured-title pl-80 res-480-pl-0 res-480-pt-20">
-                                                <h3><a href="blog-single.php">The most 5 common types of ore mining equipment</a></h3>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 col-md-6 col-sm-12">
-                                        <div class="featured-desc align-items-center res-767-mt-15">
-                                            <div class="post-meta">
-                                                <span class="blog-tag">Mining</span>
-                                                <span class="prt-meta-line comment"><i class="ti-comments"></i> Comments</span>
-                                            </div>                                  
-                                            <div class="float-end float-sm res-480-pt-20">
-                                                <a class="prt-btn prt-btn-size-md prt-btn-shape-round prt-btn-style-border" href="blog-single.php">View More</a>
+                                    <div class="col-lg-12 col-md-12 col-sm-12">
+                                        <div class="featured-content text-center">
+                                            <p class="comment">We are a dynamic team dedicated to delivering innovative solutions. Our mission is to help our clients achieve their goals through our expertise and commitment to excellence.</p>
+                                            <div class="mt-20">
+                                                <a class="prt-btn prt-btn-size-md prt-btn-shape-round prt-btn-style-border" href="about-us.php">Learn More About Us</a>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="blog-overlay-img">
-                                    <img class="img-fluid" src="images/blog/blog01.jpg" alt="image" width="1300" height="151">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-12 col-lg-12 col-md-12">
-                            <div class="featured-imagebox featured-imagebox-post style3">
-                                <div class="row align-items-center">
-                                    <div class="col-lg-6 col-md-6 col-sm-12">
-                                        <div class="featured-content d-flex align-items-center">
-                                            <div class="post-meta">
-                                                <span class="prt-meta-line date">20<sup class="sup">Jun</sup></span>
-                                            </div>
-                                            <div class="featured-title pl-80 res-480-pl-0 res-480-pt-20">
-                                                <h3><a href="blog-single.php">Ubiquitous Industrial Mines Nature’s Raw Materials!</a></h3>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 col-md-6 col-sm-12">
-                                        <div class="featured-desc align-items-center res-767-mt-15">
-                                            <div class="post-meta">
-                                                <span class="blog-tag">Development</span>
-                                                <span class="prt-meta-line comment"><i class="ti-comments"></i> Comments</span>
-                                            </div>
-                                            <div class="float-end float-sm res-480-pt-20">
-                                                <a class="prt-btn prt-btn-size-md prt-btn-shape-round prt-btn-style-border" href="blog-single.php">View More</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="blog-overlay-img">
-                                    <img class="img-fluid" src="images/blog/blog02.jpg" alt="image" width="1300" height="151">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-12 col-lg-12 col-md-12">
-                            <div class="featured-imagebox featured-imagebox-post style3">
-                                <div class="row align-items-center">
-                                    <div class="col-lg-6 col-md-6 col-sm-12">
-                                        <div class="featured-content d-flex align-items-center">
-                                            <div class="post-meta">
-                                                <span class="prt-meta-line date">22<sup class="sup">Jun</sup></span>
-                                            </div>
-                                            <div class="featured-title pl-80 res-480-pl-0 res-480-pt-20">
-                                                <h3><a href="blog-single.php">A mining report anomalous gold and copper values</a></h3>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 col-md-6 col-sm-12">
-                                        <div class="featured-desc align-items-center res-767-mt-15">
-                                            <div class="post-meta">
-                                                <span class="blog-tag">Planning</span>
-                                                <span class="prt-meta-line comment"><i class="ti-comments"></i> Comments</span>
-                                            </div>
-                                            <div class="float-end float-sm res-480-pt-20">
-                                                <a class="prt-btn prt-btn-size-md prt-btn-shape-round prt-btn-style-border" href="blog-single.php">View More</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="blog-overlay-img">
-                                    <img class="img-fluid" src="images/blog/blog03.jpg" alt="image" width="1300" height="151">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-12 col-lg-12 col-md-12">
-                            <div class="featured-imagebox featured-imagebox-post border-bottom style3">
-                                <div class="row align-items-center">
-                                    <div class="col-lg-6 col-md-6 col-sm-12">
-                                        <div class="featured-content d-flex align-items-center">
-                                            <div class="post-meta">
-                                                <span class="prt-meta-line date">25<sup class="sup">Jun</sup></span>
-                                            </div>
-                                            <div class="featured-title pl-80 res-480-pl-0 res-480-pt-20">
-                                                <h3><a href="blog-single.php">Announce drill results at its Mazola Hill and deposits</a></h3>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 col-md-6 col-sm-12">
-                                        <div class="featured-desc align-items-center res-767-mt-15">
-                                            <div class="post-meta">
-                                                <span class="blog-tag">Challenges</span>
-                                                <span class="prt-meta-line comment"><i class="ti-comments"></i> Comments</span>
-                                            </div>
-                                            <div class="float-end float-sm res-480-pt-20">
-                                                <a class="prt-btn prt-btn-size-md prt-btn-shape-round prt-btn-style-border" href="blog-single.php">View More</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="blog-overlay-img">
-                                    <img class="img-fluid" src="images/blog/blog06.jpg" alt="image" width="1300" height="151">
+                                    <img class="img-fluid" src="images/core-values/excellence.jpg" alt="About Us" width="1300" height="151">
                                 </div>
                             </div>
                         </div>
