@@ -1,5 +1,4 @@
 ---
 deployment:
   tasks:
-    - /bin/git pull origin main
-  
+    - /usr/local/cpanel/3rdparty/lib/path-bin/git pull origin main
