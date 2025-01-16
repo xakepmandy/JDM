@@ -25,7 +25,7 @@
                                                 <ul class="menu">
                                                     <li class="mega-menu-item active">
                                                         <a href="#" class="mega-menu-link">Menu</a>
-                                                        <ul class="mega-submenu" id="style-3">
+                                                        <ul class="mega-submenu active" id="style-3">
                                                             <li class="mega-menu-item">
                                                                 <div class="lateralDropDownContainer">
                                                                     <div class="dropDownItem">
