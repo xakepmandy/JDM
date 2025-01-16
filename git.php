@@ -1,7 +1,4 @@
 <?php
-ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
-error_reporting(E_ALL);
 // A simple script that can be called by GitHub webhook to trigger a git pull without exec.
 
 // Webhook verification logic (optional)
@@ -40,4 +37,12 @@ $output = system($sh_script, $return_var);
 
 // Output response (can be checked for debugging purposes)
 echo "Git pull executed. Output: $output";
+
+// Delete the git-pull.sh file after execution
+if (file_exists($sh_script)) {
+    unlink($sh_script);
+    echo "The script has been deleted.";
+} else {
+    echo "Failed to delete the script.";
+}
 ?>
