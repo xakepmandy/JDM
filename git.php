@@ -1,8 +1,8 @@
 <?php
-// A simple script that can be called by GitHub webhook to trigger a git pull.
+// A simple script that can be called by GitHub webhook to trigger a git pull without exec.
 
 // Webhook verification logic (optional)
-$secret = 'kyufdtyfcJHGVCHFgcgjcfjgCHGfc';
+$secret = 'kyufdtyfcJHGVCHFgcgjcfjgCHGfc';  // Set a secret if you have configured one for the webhook
 $headers = getallheaders();
 $signature = $headers['X-Hub-Signature'];
 $payload = file_get_contents('php://input');
@@ -14,17 +14,27 @@ if ($signature !== $computed_signature) {
     exit();
 }
 
-// Trigger the git pull by calling a script or using cron jobs
-// For now, we'll just trigger the git pull through a cron job.
-// For a manual approach, make sure the git repository is already cloned in CPanel.
-
+// Define the path to the Git repository
 $repo_dir = '/home/username/public_html/yourproject';
 
-// Attempt to pull the latest code from GitHub (you should have a git repository already cloned)
-$command = "cd $repo_dir && git pull origin master";
+// Ensure the repository is already cloned on the server using CPanel's Git Version Control.
 
-// You will need a cron job set up to run this command. The cron job will listen for changes and pull automatically.
-// To make this script actionable, create a cron job or make sure Git Version Control is set to update.
+// PHP Script to create and call a .sh script to run git pull (without exec())
+$sh_script = '/home/username/public_html/yourproject/git-pull.sh';
 
-echo 'Webhook received and git pull triggered.';
+// Contents of git-pull.sh
+$sh_contents = "#!/bin/bash\ncd $repo_dir && git pull origin master\n";
+
+// Write the script to a file
+file_put_contents($sh_script, $sh_contents);
+
+// Ensure the script is executable
+chmod($sh_script, 0755);
+
+// Run the shell script using PHP system() function, instead of exec().
+// This will only work if PHP has permissions to run the script.
+$output = system($sh_script, $return_var);
+
+// Output response (can be checked for debugging purposes)
+echo "Git pull executed. Output: $output";
 ?>
