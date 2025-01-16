@@ -15,15 +15,15 @@ if ($signature !== $computed_signature) {
 }
 
 // Define the path to the Git repository
-$repo_dir = '/home/username/public_html/yourproject';
+$repo_dir = '/home/jagdambaminechem/public_html/';
 
 // Ensure the repository is already cloned on the server using CPanel's Git Version Control.
 
 // PHP Script to create and call a .sh script to run git pull (without exec())
-$sh_script = '/home/username/public_html/yourproject/git-pull.sh';
+$sh_script = '/home/jagdambaminechem/public_html/git-pull.sh';
 
 // Contents of git-pull.sh
-$sh_contents = "#!/bin/bash\ncd $repo_dir && git pull origin master\n";
+$sh_contents = "#!/bin/bash\ncd $repo_dir && git pull origin main\n";
 
 // Write the script to a file
 file_put_contents($sh_script, $sh_contents);
