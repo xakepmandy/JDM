@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/jagdambaminechem/public_html
-    - /bin/cp -R * $DEPLOYPATH
+    - /bin/cp -R /home/jagdambaminechem/public_html/source/* /home/jagdambaminechem/public_html
+    - /bin/chmod -R 755 /home/jagdambaminechem/public_html
