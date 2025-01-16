@@ -3,7 +3,7 @@
 $repoDir = '/home/jagdambaminechem/public_html';
 
 // Ensure the script is being triggered by GitHub
-$secret = 'your_webhook_secret';
+$secret = 'KJBXIIbIgihYGVXGUJ';
 $headers = getallheaders();
 if (!isset($headers['X-Hub-Signature-256'])) {
     http_response_code(403);
