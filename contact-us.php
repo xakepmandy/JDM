@@ -80,10 +80,10 @@
                                 </div><!-- featured-thumbnail end-->
                                 <div class="featured-content">
                                     <div class="featured-title mt-20">
-                                        <h3>India (Head Office)</h3>
+                                        <h3>Head Office</h3>
                                     </div>
                                     <div class="featured-desc">
-                                        <p>G-3, Industrial Area, Ajmer Road, Jaipur, Rajasthan, India</p>
+                                        <p>Office - A-21, Triveni Nagar, Sikar Road, Jaipur</p>
                                     </div>
                                 </div>
                             </div><!-- featured-imagebox-services end-->
@@ -97,10 +97,10 @@
                                 </div><!-- featured-thumbnail end-->
                                 <div class="featured-content">
                                     <div class="featured-title mt-20">
-                                        <h3>Gujarat</h3>
+                                        <h3>Factory (Pali)</h3>
                                     </div>
                                     <div class="featured-desc">
-                                        <p>Sector 9, Gandhinagar, Gujarat</p>
+                                        <p>Industrial area Birkalla, Jaitaran, Pali, Rajasthan - 306302</p>
                                     </div>
                                 </div>
                             </div><!-- featured-imagebox-services end-->
@@ -114,10 +114,10 @@
                                 </div><!-- featured-thumbnail end-->
                                 <div class="featured-content">
                                     <div class="featured-title mt-20">
-                                        <h3>Maharashtra</h3>
+                                        <h3>Factory (Barmer)</h3>
                                     </div>
                                     <div class="featured-desc">
-                                        <p>Industrial Estate, Navi Mumbai, Maharashtra</p>
+                                        <p>Riico Industrial Area Barmer, Rajasthan - 344001</p>
                                     </div>
                                 </div>
                             </div><!-- featured-imagebox-services end-->
