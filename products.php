@@ -60,7 +60,7 @@
                                         <h3><a href="#">China Clay</a></h3>
                                     </div>
                                     <div class="featured-desc">
-                                        <p>High-quality China Clay used in various industrial applications.</p>
+                                        <p>China clay is ideal for producing pure white ceramics, porcelain, sanitary ware, and china clay pottery.</p>
                                     </div>
                                 </div>
                             </div>
@@ -76,7 +76,7 @@
                                         <h3><a href="#">Kaolin</a></h3>
                                     </div>
                                     <div class="featured-desc">
-                                        <p>Versatile Kaolin suitable for ceramics, paper, and other industries.</p>
+                                        <p>It is extensively used in various industrial applications such as ceramics, paints, cosmetics, pharmaceuticals, and agriculture.</p>
                                     </div>
                                 </div>
                             </div>
@@ -92,7 +92,7 @@
                                         <h3><a href="#">Zeolite</a></h3>
                                     </div>
                                     <div class="featured-desc">
-                                        <p>Natural Zeolite for water purification and industrial applications.</p>
+                                        <p>It is used in water and waste water treatment, catalysis, nuclear waste, agriculture, animal feed additives, and in biochemical applications.</p>
                                     </div>
                                 </div>
                             </div>
@@ -108,7 +108,7 @@
                                         <h3><a href="#">Bentonite</a></h3>
                                     </div>
                                     <div class="featured-desc">
-                                        <p>Bentonite clay for industrial, environmental, and agricultural uses.</p>
+                                        <p>The main uses of bentonite are in drilling mud and as a binder, purifier, absorbent, and carrier for fertilizers or pesticides.</p>
                                     </div>
                                 </div>
                             </div>
@@ -124,7 +124,7 @@
                                         <h3><a href="#">Dolomite</a></h3>
                                     </div>
                                     <div class="featured-desc">
-                                        <p>Dolomite mineral used in construction, agriculture, and manufacturing.</p>
+                                        <p>Dolomite has major applications in steelmaking, cement, ceramic, and glass industry.</p>
                                     </div>
                                 </div>
                             </div>
@@ -140,7 +140,7 @@
                                         <h3><a href="#">Calcium</a></h3>
                                     </div>
                                     <div class="featured-desc">
-                                        <p>High-grade Calcium compounds for diverse industrial needs.</p>
+                                        <p>Calcium is used to make cement and mortar and also in the glass industry.</p>
                                     </div>
                                 </div>
                             </div>
@@ -156,7 +156,7 @@
                                         <h3><a href="#">HSCAS</a></h3>
                                     </div>
                                     <div class="featured-desc">
-                                        <p>Hydrated Sodium Calcium Aluminosilicate for toxin binding and feed additives.</p>
+                                        <p>HSCAS is commonly used in poultry, swine, and ruminant diets and can be added in small amounts.</p>
                                     </div>
                                 </div>
                             </div>
@@ -172,7 +172,7 @@
                                         <h3><a href="#">Ramming Mass</a></h3>
                                     </div>
                                     <div class="featured-desc">
-                                        <p>Premium Ramming Mass for induction furnaces and lining applications.</p>
+                                        <p>Silica ramming mass is a product to be used in Coreless Induction Furnaces.</p>
                                     </div>
                                 </div>
                             </div>

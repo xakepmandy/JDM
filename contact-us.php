@@ -47,7 +47,7 @@
                             <div id="google_map" class="google_map res-767-pt-30">
                                 <div class="map_container style1">
                                     <div id="map">
-                                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3553.0300089103403!2d75.75344239678955!3d27.060800700000012!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396dad61e20c90c3%3A0xda40158f533709be!2sTriveni%20Nagar%20Sikar%20Road%20Rajawas%20jaipur!5e0!3m2!1sen!2sin!4v1736543569453!5m2!1sen!2sin" width="1920" height="952" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                        <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3553.688823299017!2d75.7768397870026!3d27.039997176945846!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjfCsDAyJzE5LjkiTiA3NcKwNDYnNTMuMSJF!5e0!3m2!1sen!2sin!4v1737974962143!5m2!1sen!2sin" width="1920" height="952" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                                     </div>
                                 </div>
                             </div>
@@ -80,10 +80,10 @@
                                 </div><!-- featured-thumbnail end-->
                                 <div class="featured-content">
                                     <div class="featured-title mt-20">
-                                        <h3>Head Office</h3>
+                                        <h3>Office Addresses</h3>
                                     </div>
                                     <div class="featured-desc">
-                                        <p>Office - A-21, Triveni Nagar, Sikar Road, Jaipur</p>
+                                        <p>Office Add.: Shop No.53, A4, Transport Nagar, Todi Mode, Sikar Road, Jaipur<br>Reg Add.: A-21, 2nd Floor, Triveni Nagar, Rajawas, Sikar Road, Jaipur - 302013</p>
                                     </div>
                                 </div>
                             </div><!-- featured-imagebox-services end-->
@@ -100,7 +100,7 @@
                                         <h3>Factory (Pali)</h3>
                                     </div>
                                     <div class="featured-desc">
-                                        <p>Industrial area Birkalla, Jaitaran, Pali, Rajasthan - 306302</p>
+                                        <p>Industrial area Birkalla, Jaitaran, Pali, Rajasthan</p>
                                     </div>
                                 </div>
                             </div><!-- featured-imagebox-services end-->
@@ -114,10 +114,10 @@
                                 </div><!-- featured-thumbnail end-->
                                 <div class="featured-content">
                                     <div class="featured-title mt-20">
-                                        <h3>Factory (Barmer)</h3>
+                                        <h3>Mines (Pali)</h3>
                                     </div>
                                     <div class="featured-desc">
-                                        <p>Riico Industrial Area Barmer, Rajasthan - 344001</p>
+                                        <p>Industrial area Birkalla, Jaitaran, Pali, Rajasthan</p>
                                     </div>
                                 </div>
                             </div><!-- featured-imagebox-services end-->
